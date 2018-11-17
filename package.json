@@ -1,6 +1,6 @@
 {
-  "name": "react-skillbars",
-  "version": "0.0.0-development",
+  "name": "react-skills-bars",
+  "version": "1.0.0-development",
   "main": "build-module/index.js",
   "description": "React NPM library containing skill bars with full color customizations and responsive layout.",
   "config": {
@@ -25,13 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/crisboarna/react-skillbars.git"
+    "url": "https://github.com/Fairbanks-io/react-skillbars.git"
   },
   "author": "Cristian Boarna <cristian.boarna@gmail.com>",
   "bugs": {
     "url": "https://github.com/crisboarna/react-skillbars/issues"
   },
-  "homepage": "https://crisboarna.github.io/react-skillbars",
   "license": "MIT",
   "files": [
     "build-module/",
