@@ -199,7 +199,7 @@ export default class SkillBar extends Component<Props, State> {
                 <span>{skill.type}</span>
               </div>
               <div
-                className={`skillbar-bar ${collapsed ? 'collapsed' : ''}`}
+                className={`skillbar-bar ${collapsed ? 'sb-collapsed' : ''}`}
                 style={{
                   background: `${this.getSkillBarColor(skill, index)}`,
                   width: `calc((100% - 110px) * (${skill.level} * 0.01))`,
